@@ -1,8 +1,4 @@
 body {
     font-family: "relaway", sans-serif;
-}
-h1 {
-    color: #ff0000;
-    font-size: 2em;
-    text-align: center;
+    background-color: rgb(227, 255, 239);
 }
